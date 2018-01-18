@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="AbsoluteBlue">#031bf4</color>
+    <color name="Nintendo8BitsBlue">#00f7ff</color>
+    <color name="WaterGreen">#00ff8c</color>
+    <color name="BlackBoardGreen">#056b00</color>
+</resources>
